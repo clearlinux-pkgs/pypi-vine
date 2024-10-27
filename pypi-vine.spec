@@ -7,7 +7,7 @@
 #
 Name     : pypi-vine
 Version  : 5.1.0
-Release  : 4
+Release  : 5
 URL      : https://files.pythonhosted.org/packages/bd/e4/d07b5f29d283596b9727dd5275ccbceb63c44a1a82aa9e4bfd20426762ac/vine-5.1.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/bd/e4/d07b5f29d283596b9727dd5275ccbceb63c44a1a82aa9e4bfd20426762ac/vine-5.1.0.tar.gz
 Summary  : Python promises.
